@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bg-app {
+  @apply bg-[#1D1238];
+}
+
+.bg-header {
+  @apply bg-[#26184A];
+}
+
+.bg-card {
+  @apply bg-[#0F0A1E];
+}
